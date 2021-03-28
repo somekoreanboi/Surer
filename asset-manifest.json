@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Surer/static/css/main.1d47ab0a.chunk.css",
+    "main.js": "/Surer/static/js/main.b350855e.chunk.js",
+    "main.js.map": "/Surer/static/js/main.b350855e.chunk.js.map",
+    "runtime-main.js": "/Surer/static/js/runtime-main.64bede3e.js",
+    "runtime-main.js.map": "/Surer/static/js/runtime-main.64bede3e.js.map",
+    "static/js/2.f5759608.chunk.js": "/Surer/static/js/2.f5759608.chunk.js",
+    "static/js/2.f5759608.chunk.js.map": "/Surer/static/js/2.f5759608.chunk.js.map",
+    "static/js/3.3c88e208.chunk.js": "/Surer/static/js/3.3c88e208.chunk.js",
+    "static/js/3.3c88e208.chunk.js.map": "/Surer/static/js/3.3c88e208.chunk.js.map",
+    "index.html": "/Surer/index.html",
+    "static/css/main.1d47ab0a.chunk.css.map": "/Surer/static/css/main.1d47ab0a.chunk.css.map",
+    "static/js/2.f5759608.chunk.js.LICENSE.txt": "/Surer/static/js/2.f5759608.chunk.js.LICENSE.txt",
+    "static/media/MyJumbotron.scss": "/Surer/static/media/background.9d539337.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64bede3e.js",
+    "static/js/2.f5759608.chunk.js",
+    "static/css/main.1d47ab0a.chunk.css",
+    "static/js/main.b350855e.chunk.js"
+  ]
+}
